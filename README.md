@@ -1,6 +1,6 @@
 # tensorflow2-unet
-Image segmentation(语义分割)
-A tensorflow_2.0 implementation of U-Net(语义分割)
+1. Image segmentation
+2. A tensorflow_2.0 implementation of U-Net.
 
 
 ## Requirements:
