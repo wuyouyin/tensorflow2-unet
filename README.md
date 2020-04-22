@@ -9,14 +9,14 @@ A tensorflow_2.0 implementation of U-Net(语义分割)
 + opencv-python == 4.1.0.25
 
 ## Usage
-1、dataset_cell数据集下载地址：
-2、dataset_sidewalk数据集下载地址：
-3、dataset_trafficRoad数据集下载地址：
+1. dataset_cell数据集下载地址：
+2. dataset_sidewalk数据集下载地址：
+3. dataset_trafficRoad数据集下载地址：
 
 ### Test
-1、代码中 model = tf.keras.models.load_model('models/model-cell-0017-0.9356.h5')改成自己训练出来的模型名称。
-2、代码中 model = tf.keras.models.load_model('models/model-sidewalk-0016-0.9945.h5')改成自己训练出来的模型名称。
-3、代码中 model = tf.keras.models.load_model('models/model-trafficRoad-0017-0.9052.h5')改成自己训练出来的模型名称。
+1. 代码中 model = tf.keras.models.load_model('models/model-cell-0017-0.9356.h5')改成自己训练出来的模型名称。
+2. 代码中 model = tf.keras.models.load_model('models/model-sidewalk-0016-0.9945.h5')改成自己训练出来的模型名称。
+3. 代码中 model = tf.keras.models.load_model('models/model-trafficRoad-0017-0.9052.h5')改成自己训练出来的模型名称。
 
 
 ## References
