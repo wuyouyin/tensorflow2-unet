@@ -3,8 +3,3 @@
 *.png
 *.h5
 *.weights
-/.ipynb_checkpoints/
-#/dataset_cell/
-#/dataset_sidewalk/
-#/dataset_trafficRoad/
-#/models/
