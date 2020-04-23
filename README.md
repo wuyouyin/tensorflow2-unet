@@ -18,10 +18,6 @@
 2. 代码中 model = tf.keras.models.load_model('models/model-sidewalk-0016-0.9945.h5')改成自己训练出来的模型名称。
 3. 代码中 model = tf.keras.models.load_model('models/model-trafficRoad-0017-0.9052.h5')改成自己训练出来的模型名称。
 
-## Effect
-![Output](readme_imgs/effect1.png)
-![Output](readme_imgs/effect1.png)
-![Output](readme_imgs/effect1.png)
 ## References
 + 论文地址: [U-Net: Convolutional Networks for Biomedical Image Segmentation](http://www.arxiv.org/pdf/1505.04597.pdf)
 
